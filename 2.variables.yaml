@@ -1,0 +1,5 @@
+- name: variable demo
+  host: all
+  tasks:
+    - debug:
+        msg: Hello World
