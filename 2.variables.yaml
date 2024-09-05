@@ -1,5 +1,5 @@
 - name: variable demo
-  host: all
+  hosts: all  # corrected this line from 'host' to 'hosts'
   tasks:
     - debug:
-        msg: Hello World
+        msg: "Hello World"
