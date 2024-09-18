@@ -1,4 +1,4 @@
 - name: install package
  hosts: all
  vars: 
-  
+   PKG: http
