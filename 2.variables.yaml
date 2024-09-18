@@ -2,7 +2,8 @@
   hosts: all
   vars:
     URL: cloudblitz.com   # global Variable
-  var  
+  var_file:
+    
   tasks:
     - debug:
         msg: Hello World, {{ URL}}
