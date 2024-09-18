@@ -2,6 +2,7 @@
   hosts: all
   vars: 
     PKG: apache2
+    
   tasks:
     - package:
         name: "{{PKG}}"
