@@ -3,7 +3,7 @@
   vars:
     URL: cloudblitz.com   # global Variable
   var_file:
-    -   
+    - ./vars.txt  
   tasks:
     - debug:
         msg: Hello World, {{ URL}}
