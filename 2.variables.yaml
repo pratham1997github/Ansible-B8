@@ -4,6 +4,6 @@
     URL: cloudblitz.com
   tasks:
     - debug:
-        msg: "Hello World"
+        msg: "Hello World
     - debug: 
         msg: My URL is, {{ URL }}    
