@@ -1,2 +1,4 @@
 - name: install package
- hosts
+ hosts: all
+ vars: 
+  
