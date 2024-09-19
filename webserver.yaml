@@ -1,1 +1,2 @@
-- name: my websever 
+- name: my websever playbook
+hosts
