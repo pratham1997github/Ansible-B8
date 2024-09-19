@@ -21,4 +21,4 @@
         - git
         - wget
         - unzip  
-      when: ansible_distribution == "Ubuntu"      
+      when: ansible_distribution == "Redhat"      
