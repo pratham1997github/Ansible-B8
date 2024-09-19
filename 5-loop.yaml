@@ -6,4 +6,6 @@
         msg: I love Apple
       loop:
         - Apple
+        - Pinapple
+        - Mango
         -               
