@@ -4,4 +4,4 @@
   tasks:
     - debug: 
         msg: My OS is {{ansible_distribution}}
-    - debug:     
+    - debug: My Ubuntu     
