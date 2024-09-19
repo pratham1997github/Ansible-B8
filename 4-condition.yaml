@@ -1,1 +1,2 @@
-- name: my first play
+- name: my first playbook
+  hosts:
