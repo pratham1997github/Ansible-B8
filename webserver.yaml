@@ -8,4 +8,6 @@
         state: present
       loop: 
         - apache2
-        - git  
+        - git
+        - wget
+        - unzip  
