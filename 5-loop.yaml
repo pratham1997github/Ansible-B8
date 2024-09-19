@@ -3,9 +3,9 @@
   gather_facts: true
   tasks:
     - debug: 
-        msg: I love 
+        msg: I love Apple
     - debug: 
-        msg: I love
+        msg: I love 
     - debug: 
         msg: I love
     - debug: 
