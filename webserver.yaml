@@ -12,4 +12,4 @@
         - wget
         - unzip  
 
-     -    
+     - yum:   
