@@ -24,3 +24,4 @@
       when: ansible_distribution == "Redhat"
 
     - systemd_service:         
+        name
