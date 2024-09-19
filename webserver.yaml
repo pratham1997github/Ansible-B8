@@ -11,7 +11,7 @@
         - git
         - wget
         - unzip  
-     when: ansible_dist   
+     when: ansible_distribution   
 
      - yum:   
         name: "{{item}}"
