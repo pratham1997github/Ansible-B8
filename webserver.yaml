@@ -1,3 +1,3 @@
 - name: my websever playbook
-hosts: all
-gathar:
+  hosts: all
+  gathar:
