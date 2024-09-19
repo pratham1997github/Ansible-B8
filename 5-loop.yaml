@@ -4,11 +4,4 @@
   tasks:
     - debug: 
         msg: I love Apple
-    - debug: 
-        msg: I love Straberry
-    - debug: 
-        msg: I love Banana
-    - debug: 
-        msg: I love 
-    - debug: 
-        msg: I love                
+    -              
