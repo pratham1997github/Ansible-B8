@@ -5,4 +5,5 @@
     - debug: 
         msg: I love Apple
       loop:
-                      
+        - Apple
+        -               
