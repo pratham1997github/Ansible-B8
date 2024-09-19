@@ -4,4 +4,5 @@
   tasks:
     - debug: 
         msg: My OS is {{ansible_distribution}}
-    - debug: My Ubuntu Server is A    
+    - debug: My Ubuntu Server is Awesome
+        
