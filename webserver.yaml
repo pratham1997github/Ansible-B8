@@ -13,7 +13,7 @@
         - unzip  
       when: ansible_distribution == "Ubuntu"   
 
-     - yum:   
+    - yum:   
         name: "{{item}}"
         state: present
       loop: 
