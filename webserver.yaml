@@ -30,7 +30,7 @@
       when: ansible_distribution == "Ubuntu"  
 
     - systemd_service:         
-        name: apache2
+        name: httpd
         state: started
         enabled: true
       when: ansible_distribution == "Redhat"    
