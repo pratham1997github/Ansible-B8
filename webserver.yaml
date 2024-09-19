@@ -5,4 +5,5 @@
   tasks: 
     - apt:
         name: "{{item}}"
-        state
+        state: present
+        
