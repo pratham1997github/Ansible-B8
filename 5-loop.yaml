@@ -4,3 +4,6 @@
   tasks:
     - debug: 
         msg: I love
+    - debug: 
+        msg: I love
+            
