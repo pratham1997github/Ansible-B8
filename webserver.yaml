@@ -36,4 +36,4 @@
       when: ansible_distribution == "Redhat"    
 
     - copy:
-        src:  
+        src: ./index.  
