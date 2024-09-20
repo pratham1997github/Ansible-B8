@@ -1,2 +1,3 @@
-172.31.0.248    URL="hosts.cloudblitz.in"
-172.31.15.90    ansible_user="ec2-user"
+[all]
+172.31.0.248 URL="hosts.cloudblitz.in"
+172.31.15.90 ansible_user="ec2-user"
