@@ -4,4 +4,4 @@
     msg: My Name Is {{NAME}}    
 - copy:
     src: index.html
-    dest    
+    dest: /var/www/html    
