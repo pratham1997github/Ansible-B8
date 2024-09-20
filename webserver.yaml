@@ -33,7 +33,7 @@
         name: httpd
         state: started
         enabled: true
-      when: ansible_distribution == "Redhat"    
+      when: ansible_distribution == "Amazon"    
 
     - copy:
         src: ./index.html
